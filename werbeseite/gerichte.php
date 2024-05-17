@@ -7,6 +7,8 @@ $gerichte = [
         'price_extern' => '6,20',
         'allergens' => ['Gluten', 'Soja'],
         'image' => 'rindfleisch_gericht.jpg'
+        $neueBreite = 40;
+        $neueHoehe = 30;
     ],
     [
         'name' => 'Spinatrisotto',
