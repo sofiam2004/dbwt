@@ -48,4 +48,4 @@ function findYearsWithoutWinner($meals)
 
 // Ausgabe der Jahre ohne Gewinner seit 2000
 echo "Jahre ohne Gewinner seit 2000: " . implode(", ", findYearsWithoutWinner($famousMeals));
-
+?>
